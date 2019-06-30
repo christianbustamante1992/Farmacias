@@ -1,2 +1,0 @@
-# Farmacias
-Proyecto ARI

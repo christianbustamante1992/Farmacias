@@ -1,5 +1,7 @@
 {
-  "name": "esqueletotabs",
-  "integrations": {},
-  "type": "ionic-angular"
+  "name": "farmaciaappriobamba",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
 }
